@@ -1,0 +1,23 @@
+{
+  "name": "nonrepeatingoutput",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-fetch": "^3.2.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZacharyRener/Non-Repeating-Output.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZacharyRener/Non-Repeating-Output/issues"
+  },
+  "homepage": "https://github.com/ZacharyRener/Non-Repeating-Output#readme"
+}
