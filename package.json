@@ -5,7 +5,9 @@
   "main": "main.js",
   "dependencies": {
     "axios": "^0.27.2",
-    "node-fetch": "^3.2.6"
+    "binary-file": "^0.2.3",
+    "node-fetch": "^3.2.6",
+    "zlib": "^1.0.5"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
